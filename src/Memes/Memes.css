@@ -1,0 +1,28 @@
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.new {
+  background-color: #f0ad4e;
+  margin: 12px;
+  border-radius: 15px;
+}
+.cook {
+  background-color: #0275d8;
+  margin: 12px;
+  border-radius: 15px;
+}
+.buttons {
+  width: 30%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
+.generated{
+  width: 12%;
+  margin: auto;
+  background-color: green;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
